@@ -30,6 +30,9 @@ This repository is structured as follows:
     
 -   [**`docs/`**](./docs) – Includes the design documentation and presentation materials, covering all stages of the project’s development.
 
+-   [**`functions/`**](./functions) and [**`node_modules/`**](./node_modules) – Contain the code for the cloud functions.
+
+
 ## 🚀 Features
 
 -   **🔐 Login & Registration**: Sign in using your email or Google Single Sign-On (SSO).
