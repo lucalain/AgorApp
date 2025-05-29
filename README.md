@@ -24,47 +24,45 @@ AgorApp is a versatile social application designed to bring together individuals
 
 ## 📂 Repository Organization
 
-This repository includes:
+This repository is structured as follows:
 
-    The dima_project folder, containing all the source code for the project.
-
-    The docs folder, which includes the Design Document detailing every phase of the project, along with the project presentation.
-
-
+-   [**`dima_project/`**](./dima_project) – Contains the full source code of the AgorApp mobile application.
+    
+-   [**`docs/`**](./docs) – Includes the design documentation and presentation materials, covering all stages of the project’s development.
 
 ## 🚀 Features
 
-    🔐 Login and Registration: Sign in with email or Google SSO.
-
-    📰 Search News: Enter keywords to find news articles.
-
-    👥 Create/Edit Groups: Add group names, descriptions, categories, and images.
-
-    📅 Create/Edit Events: Organize and manage events.
-
-    📤 Share News & Events: Share directly with your groups or followers.
-
-    ➕➖ Follow/Unfollow Users: Stay connected or manage your network.
-
-    👥 Join/Leave Groups: Join communities or leave when needed.
-
-    📬 Subscribe/Unsubscribe Events: Stay updated or opt out.
-
-    💬 Chatting: Group & private messaging supported.
-
-    🖼️ View Content: Display news, events, images in chats.
-
-    🛠️ Message Actions: Delete, copy, view read receipts.
-
-    🔔 Manage Notifications: Enable/disable as you prefer.
-
-    📆 View Calendar: See events you've joined or created.
-
-    🙋 User Profiles: View and update your own profile, or explore other profiles.
-
-    ⚙️ Profile Settings: Manage info or delete your account.
-
-    🗞️ Push News Notifications: Get alerts for preferred topics.
+-   **🔐 Login & Registration**: Sign in using your email or Google Single Sign-On (SSO).
+    
+-   **📰 Search News**: Find relevant news articles by entering keywords.
+    
+-   **👥 Create/Edit Groups**: Customize groups with names, descriptions, categories, and profile images.
+    
+-   **📅 Create/Edit Events**: Organize and manage events seamlessly.
+    
+-   **📤 Share News & Events**: Easily share content with your groups or followers.
+    
+-   **➕➖ Follow/Unfollow Users**: Manage your connections and stay updated.
+    
+-   **👥 Join/Leave Groups**: Join communities or leave them as needed.
+    
+-   **📬 Subscribe/Unsubscribe Events**: Stay updated on events or opt out anytime.
+    
+-   **💬 Chatting**: Enjoy group and private messaging features.
+    
+-   **🖼️ View Content**: Browse shared news, events, and images within chats.
+    
+-   **🛠️ Message Actions**: Delete, copy, or check read receipts for messages.
+    
+-   **🔔 Manage Notifications**: Choose to enable or disable notifications based on your preferences.
+    
+-   **📆 View Calendar**: See a calendar of events you've joined or created.
+    
+-   **🙋 User Profiles**: View and update your own profile, or explore other profiles.
+    
+-   **⚙️ Profile Settings**: Update profile details or delete your account.
+    
+-   **🗞️ Push News Notifications**: Receive alerts on news related to your interests.
 
 ## 🏗️ Architectural Design
 
