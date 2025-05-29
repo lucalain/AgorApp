@@ -56,7 +56,7 @@ This repository is structured as follows:
     
 -   **🔔 Manage Notifications**: Choose to enable or disable notifications based on your preferences.
     
--   **📆 View Calendar**: See a calendar of events you've joined or created.
+-   **📆 View Calendar**: Browse a calendar with events joined or created.
     
 -   **🙋 User Profiles**: View and update your own profile, or explore other profiles.
     
@@ -70,16 +70,21 @@ AgorApp is developed with Flutter, an open-source framework created by Google th
 
 ### 🗄️ Data Management
 
-- 🔥 **Cloud Firestore**: A scalable, document-based database designed to store and manage the application's data efficiently.
+- 🔥 **Cloud Firestore**: A scalable, NoSQL database optimized for storing and managing application data with high efficiency.
 - ☁️ **Cloud Storage**: Used to store and deliver user-generated images, including profile pictures, event photos, group profile images, and chat images.
+
 
 ### 🔌 External Services
 
-- 🔐 **Firebase Authentication + Google Sign-In**: For user authentication.
-- 📩 **Firebase Cloud Function**: For delivering push notifications.
-- 📰 **News API**: For accessing curated news stories.
-- 🗺️ **OpenStreetMaps API + GraphHopper API**: For map functionality and location information.
-- 🔔 **Firebase Cloud Messaging**: For sending push notifications.
+-   **🔐 Firebase Authentication & Google Sign-In**: Secure user authentication and seamless login via Google.
+    
+-   **📩 Firebase Cloud Functions**: Manage and deliver push notifications to users.
+    
+-   **📰 News API**: Access and deliver curated, up-to-date news stories.
+    
+-   **🗺️ OpenStreetMaps & GraphHopper APIs**: Provide location services and map functionality.
+    
+-   **🔔 Firebase Cloud Messaging**: Enable real-time push notifications for enhanced user engagement.
 
 ## 🖥️ User Interface Design
 
@@ -126,7 +131,7 @@ Planned improvements for AgorApp include:
 
 - Implement a recommender system to suggest relevant news to users.
 - Replace the current Firebase-based backend with a custom solution.
-- Expand Android support to leverage Flutter's cross-platform capabilities.
+- Expand Android support to fully utilize the cross-platform capabilities of Flutter.
 - Integrate bots into group chats to act as moderators.
 
 
