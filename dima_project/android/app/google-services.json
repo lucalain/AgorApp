@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686958564481",
+    "firebase_url": "https://dima-58cb8-default-rtdb.firebaseio.com",
+    "project_id": "dima-58cb8",
+    "storage_bucket": "dima-58cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686958564481:android:dd8717ba8494dd5afee980",
+        "android_client_info": {
+          "package_name": "com.polimi.dima_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686958564481-tu327sjr9f3djh1bfinh6tpq1ffmrc7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmv4n8pvqrm-gmuPIMe8BYY6grdMEc5pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686958564481-tu327sjr9f3djh1bfinh6tpq1ffmrc7e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686958564481-blc9vsvidi2tvhfnvstsugd2bcpqht9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dimaProject.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

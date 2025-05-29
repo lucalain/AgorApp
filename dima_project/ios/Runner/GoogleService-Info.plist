@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>686958564481-gnd6r6n6h6vmcpfvjt7cen4nkbc789pn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.686958564481-gnd6r6n6h6vmcpfvjt7cen4nkbc789pn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCebtI4tNyvgq4TbYDQNjOVzXkMUvz-LJs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>686958564481</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.polimi.dimaProject</string>
+	<key>PROJECT_ID</key>
+	<string>dima-58cb8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dima-58cb8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:686958564481:ios:ca4ae3f2f276eb4dfee980</string>
+	<key>DATABASE_URL</key>
+	<string>https://dima-58cb8-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
