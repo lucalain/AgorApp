@@ -1,5 +1,13 @@
 # 📱 AgorApp
 
+
+
+<p align="center">
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/logo.png" alt="logo" width="250" height="250"/>
+</p>
+
+
+
 This repository contains the project developed for the **Design and Implementation of Mobile Applications (DIMA)** course at *Politecnico di Milano* (A.Y. 2023–2024).
 The goal of the project is to design and implement a cross-platform mobile application using one of the technologies introduced during the course. For this project, we chose **Flutter**, a framework developed by Google to create cross-platform applications.
 Course Instructor: Prof. Luciano Baresi
@@ -92,7 +100,7 @@ AgorApp is developed with Flutter, an open-source framework created by Google th
 ## 🖥️ User Interface Design
 
 The user interface of AgorApp is designed to be intuitive and user-friendly. The application adapts to different screen sizes to enhance usability and improve the overall look and feel. Key screens include:
-
+    
 - 🔑 **Login**: The first screen displayed when the application is opened.
 - 📰 **News Page**: Features the most recent news and allows users to search for news articles.
 - 💬 **Chat Page**: Displays the chat interface, featuring a list of group and private chats.
