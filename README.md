@@ -34,11 +34,11 @@ AgorApp is a versatile social application designed to bring together individuals
 
 This repository is structured as follows:
 
--   [**`dima_project/`**](./dima_project) – Contains the full source code of the AgorApp mobile application.
+-   [**`agorapp/`**](./agorapp) – Contains the full source code of the AgorApp mobile application.
     
 -   [**`docs/`**](./docs) – Includes the [Design Document](./docs/Design%20Document.pdf) and [Presentation Presentation](./docs/Project%20Presentation.pdf)  slides.
 
--   [**`functions/`**](./functions) and [**`node_modules/`**](./node_modules) – Contain the code for the cloud functions.
+-   [**`images/`**](./images) – Stores all images used in this README.
 
 
 ## 🚀 Features
