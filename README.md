@@ -36,7 +36,7 @@ This repository is structured as follows:
 
 -   [**`dima_project/`**](./dima_project) – Contains the full source code of the AgorApp mobile application.
     
--   [**`docs/`**](./docs) – Includes the [design document](./docs/Design%20Document.pdf) and [presentation slides](./docs/Project%20Presentation.pdf).
+-   [**`docs/`**](./docs) – Includes the [Design Document](./docs/Design%20Document.pdf) and [Presentation Presentation](./docs/Project%20Presentation.pdf)  slides.
 
 -   [**`functions/`**](./functions) and [**`node_modules/`**](./node_modules) – Contain the code for the cloud functions.
 
@@ -99,15 +99,55 @@ AgorApp is developed with Flutter, an open-source framework created by Google th
 
 ## 🖥️ User Interface Design
 
-The user interface of AgorApp is designed to be intuitive and user-friendly. The application adapts to different screen sizes to enhance usability and improve the overall look and feel. Key screens include:
+The user interface of AgorApp is designed to be intuitive and user-friendly. The application adapts to different screen sizes to enhance usability and improve the overall look and feel. 
+
+
+Key screens include:
+<p align="center">
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/login.png" height="400"/>
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/login_ipad_dark.png" height="400"/>
+</p>
     
 - 🔑 **Login**: The first screen displayed when the application is opened.
+
+<p align="center">
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/news.png" height="400"/>
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/news_dark.png" height="400"/>
+</p>
+
 - 📰 **News Page**: Features the most recent news and allows users to search for news articles.
+
+<p align="center">
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/groups.png" height="400"/>
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/chats_ipad_dark.png" height="400"/>
+</p>
+
 - 💬 **Chat Page**: Displays the chat interface, featuring a list of group and private chats.
+
+<p align="center">
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/calendar.png" height="400"/>
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/calendar_dark.png" height="400"/>
+</p>
+
 - 📅 **Calendar Page**: Features a calendar that allows users to view events.
-- ➕ **Create Event Page**: Allows users to create events by providing event details.
+
+<p align="center">
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/search.png" height="400"/>
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/search_dark.png" height="400"/>
+</p>
+
 - 🔍 **Search Page**: Allows users to search for other users, groups, and events.
+
+<p align="center">
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/home.png" height="400"/>
+  <img src="https://github.com/lucalain/AgorApp/blob/main/images/home_dark.png" height="400"/>
+</p>
+
 - 🙍‍♂️ **User Profile Page**: Displays the user profile, including the username, full name, and preferred categories.
+
+> 📸 _More screenshots of the app are available in the [Design Document](./docs/Design%20Document.pdf)._
+  
+-  ➕ **Create Event Page**: Allows users to create events by providing event details.
 - 📍 **Event Page**: Displays the event details, including the name, description, and location.
 - 📄 **Detail Page**: Provides detailed information about an event.
 - ⚙️ **Setting Page**: Allows users to manage their profile settings.
@@ -159,7 +199,7 @@ Planned improvements for AgorApp include:
 
 
 
-### 🔐 API Keys
+## 🔐 API Keys
 
 
 The development of the application required the use of some APIs. The keys used are not present in the repository and they need to be regenerated. The APIs key can be generated from the following links:
@@ -167,7 +207,7 @@ The development of the application required the use of some APIs. The keys used 
 -   [https://www.graphhopper.com/](https://www.graphhopper.com/)
 -   [https://newsapi.org/](https://newsapi.org/)
 
-The backend of the application is hosted on [Firebase](https://firebase.google.com/). The configuration files are empty and they need to be regenerated.
+The backend of the application is hosted on [Firebase](https://firebase.google.com/). The configuration files are empty and need to be regenerated.
 
 
 ## Authors
