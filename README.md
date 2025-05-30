@@ -36,7 +36,7 @@ This repository is structured as follows:
 
 -   [**`dima_project/`**](./dima_project) – Contains the full source code of the AgorApp mobile application.
     
--   [**`docs/`**](./docs) – Includes the design documentation and presentation materials, covering all stages of the project’s development.
+-   [**`docs/`**](./docs) – Includes the [design document](./docs/Design%20Document.pdf) and [presentation slides](./docs/Project%20Presentation.pdf).
 
 -   [**`functions/`**](./functions) and [**`node_modules/`**](./node_modules) – Contain the code for the cloud functions.
 
@@ -136,6 +136,18 @@ The testing strategy for the application comprises three distinct types:
 -  **Widget Testing**: Focuses on the user interface and interaction of widgets within the application.
 -  **Integration Testing**: Ensures that the combined components of the system work together as intended.
 
+### 📊 Test Coverage
+
+The following table summarizes the test coverage achieved when running all tests together:
+
+| Test Type                      | Coverage |
+|-------------------------------|----------|
+| Unit Tests   | 97%      |
+| Widget Tests | 93%      |
+| Integration Tests  | 90.2% |
+
+
+
 ## 🔮 Future Developments
 
 Planned improvements for AgorApp include:
@@ -155,7 +167,7 @@ The development of the application required the use of some APIs. The keys used 
 -   [https://www.graphhopper.com/](https://www.graphhopper.com/)
 -   [https://newsapi.org/](https://newsapi.org/)
 
-The backend of the application is hosted on [Firebase](https://firebase.google.com/). The configuration file is not present in the repository and it needs to be regenerated.
+The backend of the application is hosted on [Firebase](https://firebase.google.com/). The configuration files are empty and they need to be regenerated.
 
 
 ## Authors
